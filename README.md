@@ -1,6 +1,7 @@
 <h1 align="Center"> Hola 👋 Bienvenid@s </h1>
 <h3 align="Center"> Soy Rodrigo Jerez </h3>
 <h3 align="Center"> Ingeniero Comercial | Data Scientist </h3>
+## En este espacio podran encontrar la mayoria de los proyectos en que he trabajado
 <!--
 **Rojego/Rojego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
