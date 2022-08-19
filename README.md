@@ -1,5 +1,6 @@
-### Hola Bienvenidos es este espacio podran encontran la mayoria de los proyectos en que he trabajado los lenguajes usados fueron PYTHON, RUBY, HTML, JS, CSS  👋
-
+<h1 align="Center"> Hola 👋 Bienvenid@s </h1>
+<h3 align="Center"> Soy Rodrigo Jerez </h3>
+<h3 align="Center"> Ingeniero Comercial | Data Scientist </h3>
 <!--
 **Rojego/Rojego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
