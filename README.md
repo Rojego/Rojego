@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola Bienvenidos es este espacio podran encontran la mayoria de los proyectos en que he trabajado los lenguajes usados fueron PYTHON, RUBY, HTML, JS, CSS  👋
 
 <!--
 **Rojego/Rojego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
